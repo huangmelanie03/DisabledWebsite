@@ -1,0 +1,16 @@
+.about-me {
+  background-color: #1e7eae;
+  box-shadow: 12px 12px;
+
+}
+
+.my-image {
+  position: relative;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-color: #EED2BF;
+  background-size: cover;
+  min-height: 100%; /* This adjusts the height of the image */
+  background-image: url("https://cdn.glitch.com/8927822f-131b-46ac-b57a-ec89fc9692af%2FIMG_5024.JPG?v=1593121756441");
+  background-attachment: fixed;
+}
